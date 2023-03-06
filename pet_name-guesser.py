@@ -1,4 +1,18 @@
-# Pet Name Guessing Game
+#-----------------------------------------------------------------------------
+# Name:        Pet Name Guesser
+# Purpose:     This is a pet name guessing program with a limited number of tries. You have to guess the letter at an index in the randomly generated pet name.
+#
+# Author:      Shaurya Sareen (Rye)
+# Created:     6-March-2023
+# Updated:     6-March-2023
+#-----------------------------------------------------------------------------
+#I think this project deserves a level XXXXXX because ...
+#
+#Features Added:
+#   ...
+#   ...
+#   ...
+#-----------------------------------------------------------------------------
 
 # Imports
 import argparse
